@@ -1,7 +1,7 @@
 {
   "name": "javascripting",
   "description": "Learn JavaScript by adventuring around in the terminal.",
-  "version": "2.6.0",
+  "version": "2.6.1",
   "repository": {
     "url": "https://github.com/sethvincent/javascripting.git"
   },
@@ -15,7 +15,7 @@
     "colors": "^1.0.3",
     "promise": "^7.1.1",
     "diff": "^1.2.1",
-    "workshopper-adventure": "^4.4.6"
+    "workshopper-adventure": "^5.0.0"
   },
   "license": "MIT"
 }
