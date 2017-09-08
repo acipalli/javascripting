@@ -7,13 +7,13 @@
 ## Get help
 Having issues with javascripting? Get help troubleshooting in the [nodeschool discussions repo](http://github.com/nodeschool/discussions), or on gitter:
 
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/nodeschool/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/gitter/room/gitterHQ/gitter.svg)](https://gitter.im/nodeschool/discussions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Install Node.js
 
 Make sure Node.js is installed on your computer.
 
-Install it from [nodejs.org/download](http://nodejs.org/download)
+Install it from [nodejs.org](https://nodejs.org/)
 
 On Windows and using v4 or v5 of Node.js? Make sure you are using at least 5.1.0, which provides a fix for a bug on Windows where you can't choose items in the menu.
 
@@ -81,7 +81,6 @@ Add these challenges:
 - "OBJECT KEYS"
 - "FUNCTION RETURN VALUES"
 - "THIS"
-- "SCOPE"
 
 ## License
 
